@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @100FROI
-- I'm a graduated software engineer, specialized in C++ software development, currently taking classes in audio conception and engineering
+- 🎓 I'm a graduated software engineer, specialized in C++ software development, currently taking classes in audio conception and engineering
 - 👀 I’m interested in musical software development and implementation of real-time signal processing
 - 🌱 I’m currently learning about audio signal processing, synthesis by physical modeling, and embedded software development
 - 💞️ I’m looking to collaborate on an audio software project
